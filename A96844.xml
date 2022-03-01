@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The severall examinations and confessions of the treacherous conspiratours against the citie of Bristoll. Together with the judgement of death by the Councell of War upon Robert Yeomans, late sheriffe of the said city, chief actor in the said conspiracy. Also a message from the Earl of Forth, lord lieutenant generall of His Majesties forces, in the behalf of the said conspirators, to Colonell Fines, governour and commander in chief, and the rest of the Councell of War in Bristoll. With the answer of the said Col. Fines and the Councell of War in the said city to the said message. Die Lunæ 22⁰ Maii 1643. It is this day ordered by the House of Commons, that the examination of Robert Yeomans, and the rest of the examinations sent up from the Governour of Bristoll, together with the sentence of the Councell of War, and the letters, be forthwith printed. H. Elsynge Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96844</idno>
+            <idno type="STC">Wing W336</idno>
+            <idno type="STC">Thomason E104_4</idno>
+            <idno type="STC">ESTC R8801</idno>
+            <idno type="EEBO-CITATION">99873408</idno>
+            <idno type="PROQUEST">99873408</idno>
+            <idno type="VID">155924</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155924)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The severall examinations and confessions of the treacherous conspiratours against the citie of Bristoll. Together with the judgement of death by the Councell of War upon Robert Yeomans, late sheriffe of the said city, chief actor in the said conspiracy. Also a message from the Earl of Forth, lord lieutenant generall of His Majesties forces, in the behalf of the said conspirators, to Colonell Fines, governour and commander in chief, and the rest of the Councell of War in Bristoll. With the answer of the said Col. Fines and the Councell of War in the said city to the said message. Die Lunæ 22⁰ Maii 1643. It is this day ordered by the House of Commons, that the examination of Robert Yeomans, and the rest of the examinations sent up from the Governour of Bristoll, together with the sentence of the Councell of War, and the letters, be forthwith printed. H. Elsynge Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>15 [i.e. 16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, and to be sold at his Shop in the Middle Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 25. MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The text includes separate statements of Robert Yeomans, George Teage, Jeremy Bucks, Moses Longman and Robert Hawkesworth, George Bourcher, Edward Hunt, John Pestor, Nath. Street.</note>
+                  <note>Page 16 has been misnumbered 15.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fiennes, Nathaniel, 1607 or 8-1669.</term>
+               <term>Forth and Brentford, Patrick Ruthven, --  Earl of, 1573?-1651.</term>
+               <term>Yeomans, Robert, d. 1643.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Bristol (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155924:1" rendition="simple:additions"/>
+            <p>THE SEVERALL Examinations and Confeſsions OF <hi>The Treacherous Conſpiratours</hi> AGAINST <hi>The Citie of</hi> BRISTOLL.</p>
+            <p>Together with the judgement of Death by the Councell of War upon <hi>Robert Yeomans,</hi> late Sheriffe of the ſaid City, chief actor in the ſaid Conſpiracy.</p>
+            <p>Alſo a Meſſage from the Earl of <hi>Forth,</hi> Lord Lieutenant Generall of His Majeſties Forces, in the behalf of the ſaid Conſpirators, to Colonell <hi>Fines,</hi> Governour and Commander in chief, and the reſt of the Councell of War in BRISTOLL.</p>
+            <p>With the Anſwer of the ſaid Col. <hi>Fines</hi> and the Councell of War in the ſaid City to the ſaid Meſſage.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <date>Die Lunae 22<hi rend="sup">o</hi> Maii 1643.</date>
+                        </opener>
+                        <p>
+                           <hi>It is this day Ordered by the Houſe of Commons, That the Examination of</hi> Robert Yeomans, <hi>and the reſt of the Examinations ſent up from the Governour of</hi> Briſtoll, <hi>toge<g ref="char:EOLhyphen"/>ther with the Sentence of the Councell of War, and the Let<g ref="char:EOLhyphen"/>ters, be forthwith Printed.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON: Printed for <hi>Edward Husbands,</hi> and are to be ſold at his Shop in the Middle Temple, May 25. MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="confession">
+            <pb n="2" facs="tcp:155924:2"/>
+            <head>Robert Yeomans Confeſsion.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter I had the Commiſſion from the King, which was promiſed by <hi>John Thruppe</hi> and <hi>John Bowcher,</hi> unknown to me, and brought by <hi>Millard,</hi> as I have before declared, I did nothing in it, but laid it by me, untill being in company with ſome of the Commanders of Colonell <hi>Eſſex</hi> Forces, many of them declared themſelves to be for the King, and that whenſo<g ref="char:EOLhyphen"/>ever any of the Kings Forces came, they would deliver them the Town, and the rather for that they perceived that there were a great many of the Town that would take their parts, by whoſe help they doubted not but eaſily to do it; thoſe that ſo declared themſelves to me, were Captain <hi>Hilſdon,</hi> Lieutenant <hi>Marſhall</hi> that commanded the Serjeant Majors Company, Lieutenant <hi>Cheyney</hi> that command<g ref="char:EOLhyphen"/>ed the Lieutenant Colonells Company, and Lieutenant <hi>Moore</hi> which commanded a Company of a Captain which was in <hi>Lon<g ref="char:EOLhyphen"/>don:</hi> When I perceived ſo many of the Commanders, and many of this Citie that way affected, and I beleeving that Cauſe to be the juſteſt, ſo as I were ſure that the King himſelf was acquainted with the proceedings, and not done by others unknown to him, or he ſeduced by them, thoſe Commanders and my ſelf, and others had conference together, and we received a Meſſage from the King, <hi>That we ſhould ſend ſome able man to him, to inform him of the true ſtate of the Citie, and how the Citizens ſtood affected:</hi> Whereupon we ſent <hi>George Teage</hi> to <hi>Oxford</hi> together with <hi>Cowling,</hi> who went and ſpake with the King himſelf, and acquainted him with the eſtate of the City, and all things here; he gave the King ſuch content there<g ref="char:EOLhyphen"/>in, that he lent him his own Horſe to ride to Prince <hi>Rupert</hi> to ac<g ref="char:EOLhyphen"/>quaint him with the buſineſſe, as, <hi>Teage</hi> reported to us at his return, when we met all together at the <hi>Roſe-Tavern,</hi> with many thanks ſent by His Majeſtie to us all, but eſpecially to thoſe Commanders, perſwading them to perſiſt, and they ſhould be well rewarded; <hi>Cowling</hi> brought the like Meſſage, Doctor <hi>Marks</hi> alſo brought the like Meſſage, and was willed by the King to ſpeak with thoſe Com<g ref="char:EOLhyphen"/>manders themſelves, and to tell them, That they ſhould be private,
+<pb n="3" facs="tcp:155924:2"/>untill the coming of his Forces thither, which ſhould be ere long, and that he would reward, and prefer them; whereupon Doctour <hi>Marks</hi> ſpake with <hi>Hilſdon</hi> and <hi>Marſhall</hi> to my knowledge, whe<g ref="char:EOLhyphen"/>ther he did with the reſt I know not, but I know that <hi>Teage, Cow<g ref="char:EOLhyphen"/>ly,</hi> and Captain <hi>Cockram</hi> did ſpeak with them themſelves, <hi>Cockram</hi> himſelf being ſent to them and us from the King, and return their and our Anſwer to the King. Afterwards thoſe Commanders and vve meeting but a day before the coming of the Kings Army, they complained of the want of money to give their Souldiers, without which they could not cauſe them to do what they would have them to do: whereupon they importuned me to lend them fourty pound <hi>(viz.)</hi> ten pound apiece, faithfully promiſing to repay it me, and upon their importunity I did lend it, and then it was agreed that ſome of us ſhould have company provided to aid them, and that at the ſecond Round (<hi>Hilſdon</hi> and <hi>Moore</hi> being of the grand Court of Guard) <hi>Hilſdon</hi> was to go the ſecond Round, and then he and thoſe with him coming to the Guard at <hi>Fromegate,</hi> as friends ſhould have ſeized them, and <hi>George Bowcher</hi> and his Company ſhould come and open the gate, and keep it open, and ſend to the Downe to Prince <hi>Rupert</hi> to enter: and then I and my Company ſhould come to the main Guard, and there with <hi>Moore</hi> and his aſſociates ſecure the main Court of Guard in peaceable manner (he being of the Guard, and we expecting no reſiſtance, being ſo aſſured by <hi>Hilſdon</hi> and <hi>Moore</hi> both) and for the better effecting all without any blood-ſhed, it was agreed that all our Souldiers, and thoſe that were made acquainted by the ſaid Commanders, and thoſe without alſo ſhould every one wear a piece of White Tape, to the end that the Souldiers might be diſtinguiſhed, that Pr. <hi>Rupert</hi> might know that they were his friends, and not doubt that he were betrayed at his entrance, for it was appointed by the King that we ſhould have ſome ſuch ſigne, ſuch as Prince <hi>Rupert</hi> ſhould direct, vvhich was ſo by him directed. The King had alſo aſſured us, and given charge to Prince <hi>Rupert,</hi> that no violence ſhould be uſed to any, vvhich I be<g ref="char:EOLhyphen"/>leeve vvas his full intent, the rather for that I hear there came a Proclamation to that effect; but before the buſineſſe came to be ef<g ref="char:EOLhyphen"/>fected on that Tueſday in the evening, I had intimation from <hi>Hilſ<g ref="char:EOLhyphen"/>don</hi> and <hi>Moore,</hi> that the buſineſſe vvas diſcovered, and that I ſhould ſend avvay the men that vvere there, vvhich I vvas about to do, but before I could effect it, Captain <hi>Buck</hi> came and ſeized us. Novv all
+<pb n="4" facs="tcp:155924:3"/>the blame is laid on me, vvhereas after the Commiſſion vvas brought to me, I ſtirred not till thoſe Commanders declared them<g ref="char:EOLhyphen"/>ſelves as aforeſaid, and vvhen I perceived them ſo to declare them<g ref="char:EOLhyphen"/>ſelves, and did, and do beleeve that moſt of Colonell <hi>Eſſex</hi> Com<g ref="char:EOLhyphen"/>manders and Souldiers vvere that way minded, I feared leſt if the Tovvn ſhould be delivered up or taken, and I lie ſtill as it vvere de<g ref="char:EOLhyphen"/>ſpiſing or neglecting the Kings Commiſſion, that then I ſhould much ſuffer; and indeed I vvas then of opinion by the perſwaſions of others, that that party had the juſteſt Cauſe, vvhich made me to do that I did, vvhich vvas but little, I being ignorant in thoſe cour<g ref="char:EOLhyphen"/>ſes, onely following the directions of thoſe Commanders. And be<g ref="char:EOLhyphen"/>cauſe we vowed each to other ſecrecy, and I not till now throughly convinced in my conſcience of the juſtneſſe of the Parliaments Cauſe, by reaſon of my reſtraint from ſpeaking with my friends, by whom I ſhould, and now am throughly ſatisfied and convinced in my judgement therein, I have forborn to diſcover, other men being perſvvaded alſo that vvhat vvas done, vvould not be eſteemed ſo hainous, as novv I finde by the proceedings againſt me.</p>
+         </div>
+         <div type="judgment">
+            <head>The Judgement upon ROBERT YEOMANS.</head>
+            <p>
+               <g ref="char:V">Ʋ</g>Pon due conſideration of the Articles exhibited on the eighth day of May, by <hi>Clement Walker</hi> Eſquire, Advocate to this Councell of War againſt <hi>Robert Yeomans,</hi> and others the late Conſpirators in this City, and upon due hearing of the Anſwers and Defence of the ſaid <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> to the ſeverall Articles, and alſo upon Examinations and Proofs before them taken upon Oath, It is unanimouſly adjudged by this Court, That the ſaid <hi>Robert Yeomans</hi> is guilty of Traiterous Intelligence, and Correſpondencie with the Enemy, and of a Traiterous and wicked Conſpiracie to betray this Town into the hands of the Enemie; And thereupon this Court doth adjudge, and paſſe ſentence of Death upon him as a Traitour and Conſpiratour, and accordingly doth Order, That the ſaid <hi>Robert Yeomans</hi> ſhall be returned to the place of his former Impriſonment, and from thence be brought before the main Court of Guard, and there to be hanged by the neck till he die.</p>
+            <closer>
+               <signed>Nath. Fiennes. Rich. Cole. Wal. White. James Ford. John Clifton. John Chamneys. Tho. Hippeſley. Martine Husbands. Tho. Raulins. Rich. Hippeſly. Tho. Eyre. Tho. Goodere. James Heane. Tho. Wallis. William Bowell. Robert Baugh.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <pb n="5" facs="tcp:155924:3"/>
+            <head>The Examination of <hi>George Teage,</hi> taken upon Oath before the Coun<g ref="char:EOLhyphen"/>ſell of War, held at <hi>Briſtoll</hi> the <hi>27</hi> of April <hi>1643.</hi>
+            </head>
+            <p>THis Examinate ſaith, That about ſix weeks ago <hi>Robert Yeomans</hi> invited this Examinate ſo drink with him, and then acquaint<g ref="char:EOLhyphen"/>ed him that he had a Commiſſion from the King to raiſe a Regiment of Foot in <hi>Briſtoll</hi> for his Majeſties ſervice, telling this Examinate, That if he would take part with the King, he would make him one of his Captains; this Examinate replying, That he was willing to ſerve the King, the ſaid <hi>Yeomans</hi> ſaid, That his intent was to ſeize up<g ref="char:EOLhyphen"/>on this Citie for the King, and to let in the Kings Forces; This Exa<g ref="char:EOLhyphen"/>minate further ſaith, That within three or four dayes after Colonell <hi>Fiennes</hi> came into <hi>Briſtoll,</hi> having ſome occaſion to go to <hi>Oxford,</hi> he went thither in company wich <hi>Cowly</hi> a Practitioner in Phyſick un<g ref="char:EOLhyphen"/>der Maſter <hi>Bennet,</hi> upon the way <hi>Cowly</hi> diſcovered to this Exami<g ref="char:EOLhyphen"/>nate, That he was ſent to <hi>Oxford</hi> by <hi>Robert Yeomans,</hi> M. <hi>John Throupe</hi> and <hi>John Bowcher</hi> the Merchant, ſon of <hi>Nath, Bowcher,</hi> to invite the Kings Forces to ſubdue <hi>Briſtoll,</hi> ſaying, That the King had a great party in <hi>Briſtoll</hi> ready to joyn with them when they came; the ſaid <hi>Cowly</hi> further ſaid, That he would addreſſe himſelf to Captain <hi>Veale;</hi> he ſaith he had communication about the ſtate of this City, and what party the King had in it, with one <hi>Togood</hi> a Scholer, ſon to M. <hi>Togood</hi> Miniſter in <hi>Bristoll.</hi> He ſaith, That being in company with ſome Gentlemen <hi>Oxford</hi> (whoſe names he hath forgot) the ſaid young <hi>Togood</hi> told them, this Examinate was a <hi>Briſtoll</hi> man, well affected to the Kings ſervice; whereupon they told him they would preſently have come for <hi>Briſtoll,</hi> but that they were to go up<g ref="char:EOLhyphen"/>on another Deſigne, but they would come to <hi>Briſtoll</hi> ſhortly; he ſaith, he ſaw there <hi>Walter Cowly,</hi> and <hi>Robert Doule.</hi>
+            </p>
+            <p>He ſaith, That <hi>Thomas Hilman</hi> ſaid (about a fortnight before the Kings Forces came before this Town) that he would be upon the Kings ſide; Moreover he ſaith, That he was divers times at the Ta<g ref="char:EOLhyphen"/>vern in company with <hi>Robert</hi> and <hi>William Yeomans,</hi> M. <hi>Throupt,</hi> M. <hi>Green</hi> the Lawyer, <hi>John Bowcher</hi> Merchant, and others, where they had ordinarily communication, with how many men to ſeize upon the Guard, and open a gate to the Kings Forces.</p>
+            <closer>
+               <signed>George Teage.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="6" facs="tcp:155924:4"/>
+            <head>Captain <hi>Jeremy Bucks</hi> Information upon Oath, before the Counſell of War, the <hi>21</hi> of April <hi>1643.</hi>
+            </head>
+            <p>ON the ſeventh of March I was ſent from Colonell <hi>Fiennes</hi> and the Counſell of War in <hi>Briſtoll,</hi> about ten of the clock at night, to the houſe of M. <hi>Robert Yeomans,</hi> there to apprehend him and the Conſpirators, who as they ſaid, they were informed they were to deſtroy the Guards, and ſo to give entrance unto Prince <hi>Rupert</hi> and his Forces then againſt the Town: I took 20. Muskettiers from the Bridge and went thither, and the firſt knock or ſuddenly after, M. <hi>Yeomans</hi> came to the door, and deſired to know my buſineſſe; I anſwered, It was to ſpeak with the man of the houſe; He again de<g ref="char:EOLhyphen"/>ſired to know my buſineſſe, I anſwered again, He ſhould know when I came in; He then ſaid, The Taptow had beaten, and there<g ref="char:EOLhyphen"/>fore I would not after that time of night enter his houſe; I told him, I would enter, and then called up the Muskettiers, who before ſtood ſilent, and called for ſomething to break up the door, <hi>Yeomans</hi> then ſaid, he would open it, but uſed many delayes; at length, I being ur<g ref="char:EOLhyphen"/>gent, he opened a little wide gate, and I entred and took him priſo<g ref="char:EOLhyphen"/>ner, and demanded of him, How he could be ſo inhumane as to indea<g ref="char:EOLhyphen"/>vour the deſtroying his own Town; He anſwered me with vows and deep execrations, That there was no men in his houſe, and that he was innocent of any ſuch intention; but after I had ſecured him, upon ſearching ſome upper Rooms in his houſe, I found his brother <hi>William Yeomans,</hi> and one Maſter <hi>Arundel</hi> a Merchant, with divers others, Maſters of Ships and Sailors, with others; whom I found very deſperate, one of them brake a Sword ſtriking at me, and they ſwore they would not be tied neck and heels together; I promiſed they ſhould not, but would uſe them kindly and fairly as priſoners: Maſter <hi>William Yeomans</hi> and Maſter <hi>Arundel,</hi> and ſome few more, I think but two, had before quietly yeelded themſelves priſoners; at length one of the reſt yeelded, but would hardly be diſarmed, di<g ref="char:EOLhyphen"/>ſturbing my Muskettiers, the reſt of the company preſſing to go down that ſecond pair of ſtairs, to ſecond him as I conceive, whom with my Sword I kept off, and after I had a little pacified them, I acquainted Maſter <hi>Robert Yeomans</hi> of it, who was below under a Guard, and he came up with me, and he with his bother <hi>William
+<pb n="7" facs="tcp:155924:4"/>Yeomans,</hi> and Maſter <hi>Arundel,</hi> and one or two more went with me to their company, who were in the ſecond pair of ſtairs, and there perſwaded them to yeeld themſelves priſoners and ſubmit, when as before all my threats could not prevail, for they ſaid, They did not care or fear, to loſe their lives, <hi>M. Robert Yeomans, William Yeomans, M. Arundel,</hi> and others, vowed their meeting was onely to ſave his houſe from Plundering by our Garriſon, and likewiſe that they were but eight, ten, or twelve men in all, but at the top of the houſe, after the Souldiers had ſearched, I took a Souldier and went up my ſelf with him, and there found eight men neer together in by corners, and a little Barrell of Gunpowder in a Loft cloſe by: In all I took about three and twenty men in the ſaid <hi>Robert Yeomans</hi> houſe, ſome of which formerly mentioned in the ſtayres, that oppoſed were ſo deſperate before they yeelded, that I was inforced to ſend for twenty Muskettiers from the main Guard, which were firſt appointed to go along with me; I do beleeve that many eſcaped out of the top of the houſe. And this is the effect and ſum of all that I can teſtifie:</p>
+            <closer>
+               <signed>Witneſſe my hand <hi>Jeremy Buck.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The teſtimonie of <hi>Moſes Longman</hi> and <hi>Robert Hawkeſ<g ref="char:EOLhyphen"/>worth,</hi> taken upon Oath before a Counſell of War held at <hi>Briſtoll,</hi> May 8. 1643.</head>
+            <p>Who ſaith, That Captain <hi>Jeremy Bucks</hi> Information is all true: And further ſaith, That they ſaw in <hi>Robert Yeomans</hi> houſe that night, a Thunderbuſſe, ſome Petternels, and Carrabynes, and Clubs, and Swords.</p>
+            <closer>
+               <signed>Robert Hawkeſworth. Moſes Longman.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <pb facs="tcp:155924:5"/>
+            <head>
+               <hi>The</hi> 1 <hi>Examination of</hi> George Boucher <hi>taken by</hi> Clement walker Eſquire <hi>tenth March</hi> 1643.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O the 1 Interrogatory this Examinate ſayth that himſelfe framed an oath in theſe words I doe voluntarily proteſt before Almighty God that I will to the utmoſt of my power and with my life and fortunes defend and mayn<g ref="char:EOLhyphen"/>tayn the rights and Priviledges of my dreade Soveraigne Lord King <hi>Charles</hi> his Crowne and dignity againſt all force and forces that are or ſhall be rayſed againſt his Majeſtie without his owne conſent aſſent and command he ſayth he tooke this Proteſtation on Friday was ſeavennight and adminiſtred it to one <hi>Thomas Barrett</hi> a Cutler <hi>John Nickins</hi> a trunk maker <hi>Ephraim Goody</hi> a Gold-ſmith all now in durance and to divers others whom he remembreth not, he ſayth hee gave a cop<g ref="char:EOLhyphen"/>py to <hi>Edmond Daker,</hi> a plummer who tooke, it and is likewiſe in hold, he ſayth that by the rights and Priviledges of the King his Crowne and dig<g ref="char:EOLhyphen"/>nity he meant the Lawes of the Land, hee ſayth alſo he gave white inkle to many men for diſtinction ſake and had an intent to ſurprize the guarde at Froome-gate and let in the Cavalliers who ſhould have fallen in upon the ringing of St. <hi>Iohns</hi> and St. <hi>Michaels</hi> Bell and then this examinate with his party (whereof about 20 hee had in his houſe) were to fall upon the backes of the ſaid guarde, he ſayth he had many conſultations about this buſineſſe with <hi>Robert</hi> and <hi>William Yeamans</hi> Mr. <hi>Arundell</hi> and Mr. <hi>Teague</hi> he ſayth he knew 8 dayes before they came of the Cavalliers com<g ref="char:EOLhyphen"/>ing, and that their ſaid conſultations tended to this purpoſe, how they might with moſt ſafety let in the Cavalliers. whereupon they concluded that <hi>Robert Yeamans</hi> with his Company ſhould fall upon the mayn Guard and ſeize the ordinance there and ſcowre the ſtreets with them he ſaith <hi>Robert Yeamans</hi> company conſiſted of his brother <hi>William Yeamans</hi> Mr. <hi>Arundell</hi> and divers others.</p>
+            <closer>
+               <signed>George Boucher.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <pb n="7" facs="tcp:155924:5"/>
+            <p>This examinante farther ſayth that Mr. <hi>Milward</hi> had a party; but hee knowes not who they weare. He ſayth that <hi>Io. Collins</hi> came to him upon Tueſday night 7 <hi>March</hi> to ioyne with him in letting in the Cavaliers and beleiveth he knew the plott, before hand, hee denyeth that <hi>Ancient Darker</hi> who then lay in his houſe, was privie to the buſineſſe to his Knowledge this examinant further ſayth that upon munday 6 <hi>March Robert Yeo<g ref="char:EOLhyphen"/>mans</hi> ſent a youth about 15 or 16 yeares old (being his apprentice to this examinant to give him notice that Prince <hi>Rupert</hi> would be before this towne the next night being Teuſday willing him to give warning to M. <hi>Milward</hi> and in his abſence to M. <hi>Brent</hi> to ring Saint <hi>Michaellts</hi> bell for a warning. He further faith that he acquainted <hi>Robert Blackborough</hi> that there was a difference betweene the King and his Parliament, in which they were all like to ſuffer and there was ſome ſervice to be done upon Teuſday night the ſeuenth of <hi>March</hi> for letting in the Kings forces at Froome-Gate &amp; deſired <hi>Blackborough</hi> that ſome of the Actors in that deſigne might haue leaue to paſſe through the ſaide <hi>Blackboroughs</hi> Garden towards Froome-Gate.</p>
+            <closer>
+               <signed>George Bourcher.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <head>An other examination of <hi>George Bourcher</hi> taken upon Oath before the Councell of warre the <hi>27</hi> of <hi>Aprill 1643.</hi>
+            </head>
+            <p>WHo affirmeth all his former examination &amp; further ſayth that C: <hi>T. Cole</hi> did ſome 8 dayes before P. <hi>R.</hi> comeing before this Citty tell this examinant as they were walking upon S. <hi>Auſtins</hi> Backe that Pr. R. would ſhortly come to this towne and for his more comodious comming into this Citty he the ſaid Capt. <hi>Cole.</hi> would frame a bridge of lighters over the key for paſſing of horſe and foote.</p>
+            <p>Hee further ſayth that hee heard Mr. <hi>Robert Yeomans</hi> to ſay that hee had made ſome of the mayne guarde, and that it is likely they were to be di<g ref="char:EOLhyphen"/>ſtinguiſhed by their cloths or elſe that they had ſome other marke or tape given them:</p>
+            <closer>
+               <signed>George Bourcher</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <head>Another examination of <hi>George Bourcher</hi> taken upon <hi>3</hi> May <hi>1643.</hi>
+            </head>
+            <p>VVHo ſayth that upon tueſday 7 <hi>March</hi> laſt about 9 of the clocke at night R. <hi>Yeom.</hi> ſent a meſſenger to this examinant who told him that there was way made with the party that was to ride the ſecond round to be freind us in letting in Pr. <hi>Rupert.</hi> to which purpoſe this exa<g ref="char:EOLhyphen"/>minant and his company was to come in the reare of the ſaid round and
+<pb n="8" facs="tcp:155924:6"/>fall in with them upon the Guard at Froome-gate, but further hee ſayth hee doth not remember who brought the ſaid Meſſage but ſayth the meſſen<g ref="char:EOLhyphen"/>ger told him that hee which ridde the ſecond round was to be knowne by wearing a ſcarlet gippo or coate.</p>
+            <closer>
+               <signed>George Boutcher</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <head>The examination of <hi>Iohn Bourcher</hi> ſonne of <hi>George Bourcher</hi> taken upon Oath before the councell of warre <hi>28</hi> of <hi>Aprill 1643.</hi>
+            </head>
+            <p>VVHo ſaith that he hath ſeene the draught of a Proteſtation penned by his ſaid father to this effect <hi>viz.</hi> that with their lives and eſtates they ſhould mayntayne the Kings prerogative and dignityes. Hee beleiveth that many did take it. He further ſayth the deſigne or conſpiracy was, that upon tueſday the 7 <hi>March</hi> laſt his father with his company ſhould iſſue forth about midnight and ſeize upon the Guard at Froome-gate and take the ſouldiers priſoners that were at the ſaid gate and lett in Pr. <hi>R.</hi> and his forces, who ſhould have notice given him when to fall on by the ringing of St. <hi>Michaells</hi> bel: by the appoyntment of Mr. <hi>Milward</hi> he ſayth that His father ſent a boy to Mr. <hi>Milward</hi> to take order for ringing the ſaid bell, and if <hi>Milward</hi> were not at home, the boy was to goe to Mr. <hi>Brents</hi> to looke for <hi>Milwarde</hi> there, becauſe <hi>Milward</hi> had promiſed <hi>George Bourcher</hi> to fetch the keyes from him or from the ſexton, Hee ſayth that <hi>Robert Yeomans</hi> and his company were to ſur<g ref="char:EOLhyphen"/>prize the mayne Guarde, and they were to ſeize the ordinance in both places, hee ſayth that <hi>Tho. Milward</hi> and his company were to come downe upon the out ſide of Froome-gate and joyne with <hi>George Bourcher</hi> after hee had poſſeſſed the ſaid gate, Hee ſayeth hee heard young <hi>Cowley</hi> ſay about 5 or 6 weekes before Pr. <hi>R.</hi> marched towards <hi>Bristoll.</hi> That <hi>Robert Yeomans</hi> ſent him to Oxon to invite Pr. <hi>R.</hi> and his forces to <hi>Briſtoll</hi> ſaying it would be an eaſy matter to give them entrance into the citty be<g ref="char:EOLhyphen"/>cauſe they had a great party there already hee ſayth the ſaid <hi>Cowley</hi> was ſuddaynely ſent backe from <hi>Oxon</hi> to <hi>Briſtoll</hi> with an anſwer but what the anſwer was this exam<g ref="char:punc">▪</g> knoweth not; but ſay h that hee hath heard by the relation of <hi>George Teague</hi> the ſaid anſwer was to this effect, that the King had then another deſigne on foote and as ſoone as that was over bee would ſend his forces for <hi>Briſtoll.</hi> He further ſayth that long before <hi>Cowleys</hi> ſaid Ioureny to <hi>Oxon</hi> namely be for Chriſtide laſt. <hi>Tho. Milwarde</hi> went to <hi>Oxon</hi> by whoſe appoyntment his examinant knoweth not.</p>
+            <p>And he believeth that <hi>Milward</hi> brought a Commiſſion from the King to
+<pb n="9" facs="tcp:155924:6"/>
+               <hi>Robert Yeomans,</hi> for that he heard <hi>Iohn Throop,</hi> and <hi>Iohn Bowtcher</hi> Mer<g ref="char:EOLhyphen"/>chant at <hi>Oxon</hi> ſay, that <hi>Milward</hi> muſt have a great care to carry that ſafe to <hi>Briſtoll,</hi> this Examinant believeth the particular that was ſpoken of was the ſaid Commiſſion, He ſaith, that he heard it ſpoken at <hi>Oxon</hi> uſually, that the King ſhould ſay he would make <hi>Bristoll</hi> a famous City, if the ſaid Forces were let in. He ſaith, he heard one of the Company at his Fathers houſe, the ſeventh of <hi>March</hi> laſt ſay, ſeeing Ancient <hi>Parkers</hi> Colours lye in the Room, that if he might have leave, he would carry forth thoſe Colours that night. He ſaith, he heard his Father ſay that they ſhould not go forth untill the 2<hi rend="sup">d</hi>. Round was paſt<g ref="char:punc">▪</g> &amp; that he that did lead the ſecond Round would be known by a Scarlet <hi>Gippo:</hi> and that he thought he would be for them, hee believeth that M. <hi>Throop</hi> or <hi>Robert Yeomans</hi> gave his father notice of the particular time when Prince <hi>Rupert</hi> would be before this Town, hee ſaith, he ſaw a Prentice boy of <hi>Robert Yeomans</hi> with his Father that day, but knoweth not who gave notice of his approach to <hi>Robert Yeamans,</hi> he ſaith, he heard at <hi>Oxon,</hi> and hath ſince ſeen a Printed Proclamation purporting a pardon to all that were in <hi>Bristoll,</hi> except Colonell <hi>Finnes,</hi> in caſe the For<g ref="char:EOLhyphen"/>ces were admitted, Prince <hi>Rupert</hi> was to proclaim it after his entrance into the City, and ſhould have bin proclaimed before Prince <hi>Ruperts</hi> entrance, but that it was doubted it would much diſcover the plott.</p>
+            <closer>
+               <signed>Io. Boucher.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <head>The ſecond Examination of <hi>Edw. Hunt,</hi> taken upon Oath before the Councell of War, <hi>3 May 1645.</hi>
+            </head>
+            <p>VVHo ſaith, that <hi>Robert Yeomans</hi> ſaid unto the company in the room where this Examinant was in <hi>Robert Yeomans</hi> houſe, and in his hearing. That they were reſolved to ſurprize the main Guard, to open the gates of the City, and let in the Kings Forces with Prince <hi>Rupert,</hi> and that if they prevailed, they ſhould ſee great men, who would reward them, &amp; make them for ever, ſaying further you are the men that I muſt truſt to &amp; that they ſhould have Arms to accompliſh the Deſigne, and that hee hoped to diſarm the main Guard, and furniſh them with their Arms, he kept the door of his houſe locked, and would ſuffer no man to go forth.</p>
+            <closer>
+               <signed>E. H.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <pb n="10" facs="tcp:155924:7"/>
+            <head>The examination of Maſter <hi>Robert Yeomans,</hi> taken upon Oath before the Counſell of War, <hi>28</hi> Aprill, <hi>1643.</hi>
+            </head>
+            <p>WHo being demanded whether he knew of any Meſſage ſent to <hi>Oxford</hi> to invite the Kings forces to come to this Town.</p>
+            <p>He ſaith, that about a fortnight or three weeks before Prince <hi>Rupert</hi> came before this Towne, Doctor <hi>Marks</hi> came hither from <hi>Oxford,</hi> and told this Examinant that the King gave thanks to all his loyall Subjects that were of his party in this City, and wiſhed them to keep themſelves private, untill hee had occaſion to ſend his Forces to this City, and then they ſhould have timely notice thereof.</p>
+            <p>And being further demanded whether this Meſſage of Doctor <hi>Marks</hi> did not ariſe from ſome Meſſage formerly ſent from hence, to invite the Kings Forces hither.</p>
+            <p>He anſwereth, that hee doth believe, there was, but being asked whether he knew of any one that did ſend any ſuch Meſſage.</p>
+            <p>He anſwereth, that he knows none.</p>
+            <p>And being further asked, whether he knew of any one that was acquain<g ref="char:EOLhyphen"/>ted with any ſuch Meſſage.</p>
+            <p>He anſwereth, that he believeth, that divers were acquainted with it, but he deſireth to be excuſed for nominating any particular.</p>
+            <p>And being asked what anſwer was returned to that Meſſage brought from the King by Doctor <hi>Marks.</hi>
+            </p>
+            <p>He ſaith, that hee anſwered hee ſhould be ready to ſerve his Majeſty to his power upon any occaſion, and that hee doth verily believe divers others did know of the ſame Meſſage, as namely, <hi>Io. Throop</hi> and <hi>Io. Bowtcher,</hi> and others.</p>
+            <p>He further ſaith, that Doctor <hi>Marks</hi> came againe the Saterday before Prince <hi>Rupert</hi> came hither, and brought word from the King, that his For<g ref="char:EOLhyphen"/>ces were comming this way, and therefore deſired that they would be ready here to obſerve ſuch Commands and Directions as they ſhould have from Prince <hi>Rupert,</hi> or words to this effect: and hereupon Prince <hi>Rupert</hi> ſent one <hi>Cockaram</hi> a Souldier to know whether we could ſecure him of a Port if he came here, to which he ſaith, that he anſwered, that now it was impoſ<g ref="char:EOLhyphen"/>sible
+<pb n="11" facs="tcp:155924:7"/>to do, but formerly it might eaſily have bin done, becauſe the Gar<g ref="char:EOLhyphen"/>riſon was but weak and the Guards careleſly kept, or to this effect.</p>
+            <p>This Examinant being demanded further why he and his brother provi<g ref="char:EOLhyphen"/>ded ſuch a Company of men that night in his houſe.</p>
+            <p>He anſwereth that he doth not remember that he ſpake to his Brother to bring any company to his houſe that night, but ſaith, that the Company which was at his houſe, came out of love to him, to aſſiſt him, if need were, if his Houſe ſhould be in danger to be plundered.</p>
+            <p>This Examinant being further demanded, whether hee did not know of ſeverall meetings and conſultations, touching the letting in of Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> and his Forces, before they came to this Town.</p>
+            <p>He anſwereth, that he was at divers meetings and conſultations with his Friends, but he doth not remember any ſuch diſcourſe.</p>
+            <p>This Examinant being further demanded whether he knew of any Meſ<g ref="char:EOLhyphen"/>ſage or Imployment that M. <hi>Weeks</hi> had in this buſineſſe.</p>
+            <p>He anſwereth, he knows none.</p>
+            <p>This Examinant being further demanded what Company of any Quali<g ref="char:EOLhyphen"/>ty was in his Houſe that night.</p>
+            <p>He anſwereth, that that he knows of none but thoſe that were taken and apprehended in his Houſe.</p>
+            <p>This Examinate being further asked whether he did not know of ſome deſigne to ſurprize the main Guards that night.</p>
+            <p>He anſwereth, that he knew none.</p>
+            <p>He being further asked whether he did not know of ſome of the Officers of Colonell <hi>Eſſex,</hi> or Souldiers of the Garriſon that were acquainted with this buſineſſe.</p>
+            <p>He anſwereth, that he knew none.</p>
+            <p>This Examinant being further asked whether hee did not know of any deſigne, to ſet ſome part of the Town on fire.</p>
+            <p>He anſwereth, that he knows none.</p>
+            <closer>
+               <signed>Robert Yeomans.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <head>The Examination of <hi>Iohn Peſtor,</hi> taken upon oath before the Counſell of War held at <hi>Briſtoll, 12 April 1643.</hi>
+            </head>
+            <p>THis Examinant being asked what he knew concerning a Commiſſion granted uno M. <hi>Robert Yeomans,</hi> anſwereth, that a little before Colonell
+<pb n="12" facs="tcp:155924:8"/>
+               <hi>Eſſex</hi> came into this Towne, Maſter <hi>Robert Yeomans</hi> told him, that hee underſtood, hee the ſaid <hi>Robert Yeomans</hi> had a Commiſſion from His Majeſty to make more Captaines, and deſired this Examinant to be one of thoſe Captains which he conſented unto, M. <hi>Robert Yeomans</hi> having told him that the effect of his Commiſſion was for the mayntenance of the true Proteſtant Religion eſtabliſhed in the Church of <hi>England,</hi> the Kings Pre<g ref="char:EOLhyphen"/>rogative and ſafety of His perſon, Priviledges of Parliament, and the liber<g ref="char:EOLhyphen"/>ty and propriety of the Subject, and the defence of die City, againſt all for<g ref="char:EOLhyphen"/>ces, without the joynt conſent of the Major, Aldermen and common Coun<g ref="char:EOLhyphen"/>cell, amongſt whom there was ſome difference at that time concerning the admiſſion of any Forces: And he further ſaith, that not long after Colonell <hi>Eſſex</hi> comming into the City, the ſaid <hi>Robert Yeomans</hi> meeting him in the ſtreet, ſaid, that he could have wiſhed he had received his Commiſſion ſoo<g ref="char:EOLhyphen"/>ner, that he might have prevented their comming in, or to that purpoſe.</p>
+            <p>Hee being asked whether hee were not at <hi>Richard Luckets</hi> Houſe one Tueſday night the ſeventh of <hi>March,</hi> he anſwered, that hee was there, be<g ref="char:EOLhyphen"/>twixt eight and nine of the clock, and that he was ſent for thither by <hi>Tho: Steephens,</hi> and <hi>Matthew Steephens,</hi> and <hi>Richard Lucket</hi> was the Meſſenger, and this Examinant ſaith, that whileſt they ſate at the ſame <hi>Luckets</hi> houſe, there was diſcourſe amongſt them concerning meeting at Saint <hi>Michaels</hi> Church, and to go from thence unto M. <hi>Robert Yeomans</hi> houſe, to aſſiſt him (as he believeth) to ſeize the Guards, for that they had diſcourſe that the Guards were ſo weak, that it might eaſily be done, and that they were in<g ref="char:EOLhyphen"/>treated to go unto M. <hi>Robert Yeomans.</hi> And he further ſaith, about two or three days before, meeting with M. <hi>Robert Yeomons,</hi> the ſaid <hi>Robert Yeomans</hi> told him that the Kings Forces were marching towards <hi>Briſtoll,</hi> and that he would let them in if he could, and wiſhed that all others would be as wil<g ref="char:EOLhyphen"/>ling and forward as he was ſo to do; whereunto this Examinant ſeemed willing, but ſaith, that about ten days before, the ſaid M. <hi>Robert Yeomans</hi> gave him ſome Tape, and told him that if he did weare it in his Hat and his Breſt, it would be ſecurity unto him, whenſoever the Kings Forces came in<g ref="char:EOLhyphen"/>to <hi>Briſtoll,</hi> for that it would be their own Colours: This Examinant fur<g ref="char:EOLhyphen"/>ther ſaith, that when the ſaid <hi>Robert Yeomans</hi> gave him the Yape, hee gave him alſo the word which was <hi>(Charles)</hi> which word, the reſt which he met at <hi>Rich, Luckets</hi> houſe had before him as they acknowledged to him.</p>
+            <closer>
+               <signed>John Peſter.</signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <pb n="13" facs="tcp:155924:8"/>
+            <head>The Examination of <hi>Nath. Street</hi> Tiler, taken upon Oath before the Councell of War, <hi>21 Aprill 1643.</hi>
+            </head>
+            <p>WHo ſaith, that <hi>William Yeomans</hi> brought this Examinant upon Tueſ<g ref="char:EOLhyphen"/>day the ſeventh of <hi>March</hi> laſt, into the Houſe of his brother <hi>Robert Yeomans,</hi> where he was brought into a large Chamber, where he found di<g ref="char:EOLhyphen"/>vers men. Where he heard one <hi>Harry Ruſſell</hi> aske what thoſe men ſhould do who had no Arms, to which he heard <hi>Robert Yeomans,</hi> ſay, Clubs.</p>
+            <closer>
+               <signed>Nath: Street.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>Patrick</hi> Earle of <hi>Forth,</hi> Lord <hi>Etterick,</hi> and Lord Lievtenant of all his <hi>Majeſties</hi> Forces.</head>
+            <p>I Having bin informed, that lately at a Court, or Councell of Wat, you have condemned to death, <hi>Robert Yeomans</hi> late Sheriff of the City of <hi>Briſtoll,</hi> who hath his Majeſties Commiſſion for raiſing a Regiment for his ſervice, <hi>William Yeomans</hi> his Brother, <hi>George Boucher,</hi> and <hi>Edward Dacres,</hi> all for expreſſing their Loyalty to His Majeſty and endeavouring his Service, according to their Alleageance, and that you intend to proceed ſpeedily againſt divers others in the like manner: Do therefore ſignifie unto you, that I intend ſpeedily to put M. <hi>George,</hi> M. <hi>Stevens,</hi> Captain <hi>Huntly,</hi> and ohers taken in Rebellion againſt his Majeſty at <hi>Cireweſter</hi> into the ſame condition : Do further advertiſe you, that if you offer by that unjuſt judge<g ref="char:EOLhyphen"/>ment to execute any of them, you have ſo condemned, that thoſe now in cuſtody here eſpecially M. <hi>George,</hi> M. <hi>Stevens,</hi> and Captain <hi>Huntly</hi> muſt expect no favour or mercy.</p>
+            <closer>
+               <dateline>Given under my hand at <hi>Oxford,</hi> 
+                  <date>this 16 of <hi>May,</hi> 1643.</date>
+               </dateline> 
+               <signed>Forth.</signed>
+            </closer>
+            <trailer>
+               <hi>To the Commander in Chief, and the Councell of War in the City of</hi> Briſtoll.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="15" facs="tcp:155924:9"/>
+            <head>
+               <hi>Nath. Fiennes</hi> Governour, and the Coun<g ref="char:EOLhyphen"/>cell of War in the City of BRISTOLL.</head>
+            <p>HAving received a Writing from your Lordſhip, wherein it is decla<g ref="char:EOLhyphen"/>red, That upon information of our late proceedings againſt <hi>Robert Yeomans, William Yeomans,</hi> and others, you intend ſpeedily to put Maſter <hi>George,</hi> M. <hi>Stevens,</hi> Captain <hi>Huntly,</hi> and others, into the ſame condition. We are well aſſured, That neither your Lordſhip, nor any mortall man, can put them into the ſame condition; for whether they live or die, they will alwayes be accounted true and honeſt men, faithfull to their King and Country, and ſuch as in a fair and open way have alwayes proſecuted that Cauſe, which in their judgement, guided by the judgement of the higheſt Court, they held the juſteſt: Whereas, the Conſpirators of this City muſt both in life and death carry perpetually with them the brand of Treachery and Conſpiracy. And if <hi>Robert Yeomans</hi> had made uſe of his Commiſſion in an open way, be ſhould be put into no worſe condition then others in the like kinde had been: But the Law of Nature amongſt all men, and the Law of Arms amongſt all Souldiers, maketh a difference between open Enemies, and ſecret Spies and Conſpirators: And if you ſhall not make the like diſtinction, we do ſignifie unto you, That we ſhall not onely proceed to the execution of the perſons already condemned, but alſo of divers others of the Conſpirators, unto whom we had ſome thoughts of extend<g ref="char:EOLhyphen"/>ing mercy: And do further advertiſe you, That if by any inhumane, and unſouldier-like ſentence you ſhall proceed to the execution of the perſons by you named, or any other of our friends in your cuſtody, that have been taken in a fair and open way of War; then Sir <hi>Walter Pye,</hi> Sir <hi>William Crafts,</hi> Colonell <hi>Conneysby,</hi> and divers others taken in open Rebellion, and actuall War againſt the King and Kingdom, whom we have here in cuſto<g ref="char:EOLhyphen"/>dy, muſt expect no favour or mercy. And by Gods bleſſing upon our juſt Cauſe, we have pawns enough for our friends ſecurity, without taking in any that have gotten out of our reach and power; although divers of yours, of no mean quality and condition, have been freely releaſed by us.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under our hands</hi> 
+                  <date> this 18 <hi>day of May.</hi> 1643.</date>
+               </dateline>
+               <signed>NATHANIEL FIENNES, <hi>Preſident.</hi> CLEMENT WALKER, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+            <trailer>
+               <hi>To</hi> Patrick <hi>Earl of Forth, Lord Lievtenat-Generall.</hi>
+            </trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
